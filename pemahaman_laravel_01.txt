@@ -1,0 +1,3 @@
+kegunaan file .env adalah untuk menyimpan variabel-variabel untuk konfigurasi laravel
+
+kegunaan directory config sebagai konfigurasi untuk laravel. tujuannya untuk memudahkan setiap environment pengembangan.

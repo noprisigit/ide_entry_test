@@ -1,0 +1,11 @@
+// untuk melakukan clone jalankan perintah dibawah ini
+git clone https://github.com/noprisigit/ide_entry_test.git
+
+// step-step untuk mengupload seluruh file ke dalam repository
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/noprisigit/ide_entry_test.git
+git push -u origin main
+
