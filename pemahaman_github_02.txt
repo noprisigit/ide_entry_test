@@ -1,0 +1,8 @@
+// step-step membuat pull request
+
+git branch development
+git checkout development
+git pull origin main
+git add .
+git commit -m "pull from main"
+git push origin development
